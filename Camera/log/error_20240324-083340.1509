@@ -1,0 +1,5 @@
+Log file created at: 2024/03/24 08:33:40
+Running on machine: mechax-NUC13ANHi5
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+E0324 08:33:40.550984  1509 MVCAMAPI.cpp:350] CameraInit Failed, err:-18,Version:2.1.0.31,FriendlyName:MV-SUA133GC#0,SN:043070120088
+E0324 08:40:55.991451  1509 MVCAMAPI.cpp:350] CameraInit Failed, err:-18,Version:2.1.0.31,FriendlyName:MV-SUA133GC#0,SN:043070120088
